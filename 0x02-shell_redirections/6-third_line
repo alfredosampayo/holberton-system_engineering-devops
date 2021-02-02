@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${lines[2]} iacta
+head -n 3 /iacta
