@@ -1,2 +1,2 @@
-#!/bin/bash
-script
+#/bin/bash
+echo "hello $USER"
